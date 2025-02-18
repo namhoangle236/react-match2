@@ -28,9 +28,9 @@ const App = () => {
 
   // card skins
   const cardSkins = [
-    'card-back-1.png', 'card-back-2.png', 'card-back-3.gif', 'card-back-4.gif', 'card-back-5.png',
-    'card-back-6.gif', 'card-back-7.png', 'card-back-8.png', 'card-back-9.png', 'card-back-10.png',
-    'card-back-11.png', 'card-back-12.png', 'card-back-13.png', 'card-back-14.png', 'card-back-15.gif',''
+    '/card-back-1.png', '/card-back-2.png', '/card-back-3.gif', '/card-back-4.gif', '/card-back-5.png',
+    '/card-back-6.gif', '/card-back-7.png', '/card-back-8.png', '/card-back-9.png', '/card-back-10.png',
+    '/card-back-11.png', '/card-back-12.png', '/card-back-13.png', '/card-back-14.png', '/card-back-15.gif',''
   ];
 
   // shuffle logic
